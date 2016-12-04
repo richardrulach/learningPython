@@ -31,4 +31,5 @@ print(mydictionary["boys"][2])
 print("girls - 3")
 print(mydictionary["girls"][3])
 
+print(mydictionary)
 
