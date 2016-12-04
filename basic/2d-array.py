@@ -1,13 +1,13 @@
 #####################################################
-# Author:       RR
-# Created:      04/12/2016
+#   Author:       RR
+#   Created:      04/12/2016
 #
-# Description: DEMONSTRATES 2D ARRAY IMPLEMENTED
-#               AS PYTHON LISTS
+#   Description:  DEMONSTRATES 2D ARRAY IMPLEMENTED
+#                 AS PYTHON LISTS
 #####################################################
 #
-#
-#
+#   DATE        AUTHOR  DESCRIPTION
+#   04/12/2016  RR      initialised
 #
 #####################################################
 
