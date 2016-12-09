@@ -24,3 +24,11 @@ while x < 10:
     else:
         continue
 
+print("\nfor loop:")
+s = "the latest information on hot new tech"
+
+s = "aA0"
+for c in s:
+    print(ord(c))
+    
+
