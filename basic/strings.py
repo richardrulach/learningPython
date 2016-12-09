@@ -28,3 +28,19 @@ print(s.startswith("Where"))
 
 print(s.endswith("world"))
 
+print("hello".upper())
+
+print("WHERE IS THE REMOTE?".lower())
+
+print("\n\nString formatting with %:")
+
+name = "Tom"
+emotion = "happy"
+print("welcome %s" % name)
+print("welcome %s are you %s?" % (name, emotion))
+
+print("\n\nNumber formatting string with %:")
+print("it will cost %.4d" % (2.45676))
+print("it will cost %.2f" % (2.45676))
+
+
