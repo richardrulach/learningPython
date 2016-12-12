@@ -33,3 +33,15 @@ print(mydictionary["girls"][3])
 
 print(mydictionary)
 
+print('\nFUNCTION INITIALISATION')
+
+mydictionary = dict(name='tom',
+                    surname='baker',
+                    age=47)
+print(mydictionary)
+print(mydictionary['name'])
+print(mydictionary['surname'])
+print(mydictionary['age'])
+
+
+
