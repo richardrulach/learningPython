@@ -32,7 +32,7 @@ print("hello".upper())
 
 print("WHERE IS THE REMOTE?".lower())
 
-print("\n\nString formatting with %:")
+print("\n\nString formatting expressions (%):")
 
 name = "Tom"
 emotion = "happy"
@@ -42,5 +42,17 @@ print("welcome %s are you %s?" % (name, emotion))
 print("\n\nNumber formatting string with %:")
 print("it will cost %.4d" % (2.45676))
 print("it will cost %.2f" % (2.45676))
+
+print("\n\nString formatting methods (%):")
+
+print('welcome to: {}'.format('your name'))
+
+myObj = {'name':'tom','age':'56'}
+myObj2 = dict(name = 'tom', age = '56')
+
+print('name: {} age: {}'.format(myObj['name'], myObj['age']))
+
+
+
 
 
